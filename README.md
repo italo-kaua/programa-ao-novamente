@@ -6,14 +6,7 @@ Este repositório contém todos os projetos, exercícios e anotações que desen
 
 - Introdução
 - Fundamentos
-- React Avançado
 - CSS no React
-- Formulários
-- Requisições HTTP
-- React Router
-- Context API
-- Hooks
-
 ## 🚀 Tecnologias
 
 - React
